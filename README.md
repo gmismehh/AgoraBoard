@@ -1,5 +1,6 @@
 AgoraBoard
-AgoraBoard is a PHP-based online bulletin board system designed to serve as a modern community hub where residents, 
+
+is a PHP-based online bulletin board system designed to serve as a modern community hub where residents, 
 organizations, and event organizers can post and browse announcements, events, and important notices.
 
 Members:

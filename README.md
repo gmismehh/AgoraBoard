@@ -4,6 +4,7 @@ is a PHP-based online bulletin board system designed to serve as a modern commun
 organizations, and event organizers can post and browse announcements, events, and important notices.
 
 Members:
+
 Cabucos, Nadine P.
 
 Nepomuceno, Grace Mae F

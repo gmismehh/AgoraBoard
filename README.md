@@ -5,8 +5,11 @@ organizations, and event organizers can post and browse announcements, events, a
 
 Members:
 Cabucos, Nadine P.
+
 Nepomuceno, Grace Mae F
+
 Masiado, Hendria
+
 Almeda, Caster Troy
 
 Homepage
